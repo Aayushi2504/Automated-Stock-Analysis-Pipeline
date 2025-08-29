@@ -124,9 +124,9 @@ The final dashboard provides actionable insights into stock performance:
 
 ---
 
-## Let's Connect
+## About Me
 
-I’m a Data Science grad student at San Jose State University
+I’m a Data Science grad student at San Jose State University, passionate about building impactful data systems.
 
 - **📂 My GitHub:** [github.com/Aayushi2504](https://github.com/Aayushi2504)
 - **👔 My LinkedIn:** [Let's connect!](https://www.linkedin.com/in/aayushishah037/)
