@@ -37,7 +37,7 @@ The system is built on a series of automated workflows that run daily:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component           | Technology                                                          |
 | ------------------- | ------------------------------------------------------------------- |
