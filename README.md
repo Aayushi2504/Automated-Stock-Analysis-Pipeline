@@ -92,7 +92,7 @@ This project includes a `docker-compose.yml` file to get the entire environment 
 ### Automated Data Pipelines
 Airflow orchestrates the entire process, from data ingestion to transformation.
 ![Airflow DAG Graph](assets/airflow_graph1.png)
-![Airflow Graph](assets/airflow_graph.png)
+![Airflow Graph](assets/airflow_graph2.png)
 
 ---
 
