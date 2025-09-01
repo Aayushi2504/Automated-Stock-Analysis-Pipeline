@@ -87,6 +87,15 @@ This project includes a `docker-compose.yml` file to get the entire environment 
 
 ---
 
+## Pipeline in Action
+
+### Automated Data Pipelines
+Airflow orchestrates the entire process, from data ingestion to transformation.
+![Airflow DAG Graph](assets/airflow_dag_graph.png)
+![Airflow Graph](assets/airflow_graph.png)
+
+---
+
 ## Project Outputs
 
 ### Preset Dashboard
@@ -105,6 +114,7 @@ The final dashboard provides actionable insights into stock performance:
 *   `snapshots.stock_snapshot`: Historical snapshot of data changes.
 
 ---
+
 
 ## Impact & Results
 
