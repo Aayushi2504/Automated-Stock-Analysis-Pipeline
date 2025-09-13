@@ -1,4 +1,4 @@
-## Automated Stock Analysis Pipeline
+## Automated Financial Analytics Platform
 
 Hey there! This is my end-to-end data engineering project. I built a fully automated system that collects stock market data, predicts future prices, and serves everything on a live dashboard. It’s like having a personal financial analyst working 24/7!
 
